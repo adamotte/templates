@@ -1,9 +1,9 @@
 <?xml version="1.0">
 <Container version="2">
   <Name>pydio-cells</Name>
-  <Repository>https://github.com/adamotte/docker-pydio-cells</Repository>
-  <Registry>https://hub.docker.com/r/linuxserver/</Registry>
-  <Description>Pydio Cells is the nextgen file sharing platform for organizations. It is a full rewrite of the Pydio project using the Go language following a micro-service architecture. Pydio Cells V3 - Improved Speed, Security, Searchability & Compliance</Description>
+  <Repository>linuxserver/pydio-cells</Repository>
+  <Registry>https://hub.docker.com/r/linuxserver/pydio-cells</Registry>
+  <Description>Pydio Cells V3 is the nextgen file sharing platform for organizations. It is a full rewrite of the Pydio project using the Go language following a micro-service architecture. Pydio Cells V3 - Improved Speed, Security, Searchability & Compliance</Description>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Shell>bash</Shell>
